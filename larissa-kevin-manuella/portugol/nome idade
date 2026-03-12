@@ -2,8 +2,7 @@
  * Instituição: etecvav
  * Data: 26/02/2026
  * Autor: larissa dos Santos Mascoti, Manuella de Oliveira Salvador, Kevin Willian da Silva Souza
- * Descricao: O Haras Cavalos Brilhantes compra cavalos com frequencia. ler a quantidade de cavalos adquiridos recentemente, 
- * calcular a quantidade de ferraduras necessarias para os novos cavalos e xibir a quantidade de novos cavalos e sua respectiva quantidade de ferraduras.
+ * Descricao: Ler o nome e a idade do usuario. Calcular a idade em meses e dias. Exibir o nome e idade em meses e dias
  */
 
 programa
