@@ -1,0 +1,33 @@
+/*
+ * Instituição: etecvav
+ * Data: 26/02/2026
+ * Autor: larissa dos Santos Mascoti, Manuella de Oliveira Salvador, Kevin Willian da Silva Souza
+ * Descricao: O Haras Cavalos Brilhantes compra cavalos com frequencia. ler a quantidade de cavalos adquiridos recentemente, 
+ * calcular a quantidade de ferraduras necessarias para os novos cavalos e xibir a quantidade de novos cavalos e sua respectiva quantidade de ferraduras.
+ */
+
+programa
+{
+	
+	funcao inicio()
+	{
+	 cadeia nome
+	 inteiro idade
+
+	 //Qual o nome
+	 escreva("qual é o seu nome?\n")
+	 leia(nome)
+	 
+	 //Qual é idade
+	 escreva("qual é a sua idade?\n")
+      leia(idade)
+	 
+	 //limpar console
+	 limpa()
+	 
+       //calcular idade em meses e dias e exbir a idade e o nome
+	 escreva("\nseu nome é: " + nome)
+	 escreva("\nvocê tem tantos anos de meses: ", idade * 12)
+	 escreva("\nvocê tem tantos dias de vida: ", idade * 365)
+	}
+}
